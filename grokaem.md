@@ -1,0 +1,1 @@
+![](.grokaem_images/quickSort.png)
